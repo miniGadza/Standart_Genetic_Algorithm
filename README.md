@@ -98,7 +98,7 @@
 #### 6.2 Тип "Только потомки и копия лучшего"
 ![image](https://github.com/miniGadza/Standart_Genetic_Algorithm/assets/140532458/1796e76f-5890-4fdd-9569-7aae09fb2ce8)
 
-|<a href="https://research.sfu-kras.ru/publications/publication/25044299"></a>|
+|<a href="https://research.sfu-kras.ru/publications/publication/25044299">Источник</a>|
 
 
 
